@@ -1,2 +1,2 @@
 # Iris-flower-classification
-Used classification algorithm to identiy the type of Iris flower
+Used classification algorithm to identify the type of Iris flower
